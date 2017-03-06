@@ -84,6 +84,19 @@
   - [AIの衝撃](https://www.amazon.co.jp/%EF%BC%A1%EF%BC%A9%E3%81%AE%E8%A1%9D%E6%92%83-%E4%BA%BA%E5%B7%A5%E7%9F%A5%E8%83%BD%E3%81%AF%E4%BA%BA%E9%A1%9E%E3%81%AE%E6%95%B5%E3%81%8B-%E8%AC%9B%E8%AB%87%E7%A4%BE%E7%8F%BE%E4%BB%A3%E6%96%B0%E6%9B%B8-%E5%B0%8F%E6%9E%97%E9%9B%85%E4%B8%80-ebook/dp/B00UT1RJ7M/ref=as_li_ss_tl?s=digital-text&ie=UTF8&qid=1488089450&sr=1-1&keywords=AI%E3%81%AE%E8%A1%9D%E6%92%83&linkCode=ll1&tag=kun432-22&linkId=2da32da3adc5dfb027ed6fe0f89cabe1)
   - [フューチャー・オブ・マインド](https://www.amazon.co.jp/%E3%83%95%E3%83%A5%E3%83%BC%E3%83%81%E3%83%A3%E3%83%BC-%E3%82%AA%E3%83%96-%E3%83%9E%E3%82%A4%E3%83%B3%E3%83%89-%E5%BF%83%E3%81%AE%E6%9C%AA%E6%9D%A5%E3%82%92%E7%A7%91%E5%AD%A6%E3%81%99%E3%82%8B-%E3%83%9F%E3%83%81%E3%82%AA-%E3%82%AB%E3%82%AF-ebook/dp/B00U3UMSKC/ref=as_li_ss_tl?ie=UTF8&qid=1488639356&sr=8-1&keywords=%E3%83%95%E3%83%A5%E3%83%BC%E3%83%81%E3%83%A3%E3%83%BC%E3%82%AA%E3%83%96%E3%83%9E%E3%82%A4%E3%83%B3%E3%83%89&linkCode=ll1&tag=kun432-22&linkId=99f8bbad27528b912a5ee6f6e1e6d822)
   - [人間さまお断り](https://www.amazon.co.jp/%E4%BA%BA%E9%96%93%E3%81%95%E3%81%BE%E3%81%8A%E6%96%AD%E3%82%8A-%E4%BA%BA%E5%B7%A5%E7%9F%A5%E8%83%BD%E6%99%82%E4%BB%A3%E3%81%AE%E7%B5%8C%E6%B8%88%E3%81%A8%E5%8A%B4%E5%83%8D%E3%81%AE%E6%89%8B%E5%BC%95%E3%81%8D-%E3%82%B8%E3%82%A7%E3%83%AA%E3%83%BC%E3%83%BB%E3%82%AB%E3%83%97%E3%83%A9%E3%83%B3/dp/4385360596/ref=as_li_ss_tl?ie=UTF8&qid=1488639356&sr=8-2&keywords=%E3%83%95%E3%83%A5%E3%83%BC%E3%83%81%E3%83%A3%E3%83%BC%E3%82%AA%E3%83%96%E3%83%9E%E3%82%A4%E3%83%B3%E3%83%89&linkCode=ll1&tag=kun432-22&linkId=7de5ce9ed5959f09335aed4870924d7b)
+  - [図解よくわかるナノセルロース](http://amzn.to/2mXdld4)
+  - [マテリアル革命](http://amzn.to/2meDWEh)
+  - [トコトンやさしいセンサの本](http://amzn.to/2mexwFa)
+  - [これからのMEMS](http://amzn.to/2mXiIZW)
+  - [カラー図解 EURO版 バイオテクノロジーの教科書(上)](http://amzn.to/2lOBWzc)
+  - [カラー図解 EURO版 バイオテクノロジーの教科書(下)](http://amzn.to/2lTyhRc)
+  - [スマートマシン](http://amzn.to/2lOA9dj)
+  - [まるわかりインダストリー4.0](http://amzn.to/2n6qOyn)
+  - [ゼロ・トゥ・ワン](http://amzn.to/2n6qTlF)
+  - [アテンション](http://amzn.to/2lTz58G)
+  - [限界費用ゼロ社会](http://amzn.to/2meliwm)
+  - []()
+  
 
 ##### サイト
 
