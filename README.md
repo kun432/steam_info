@@ -95,9 +95,7 @@
   - [ゼロ・トゥ・ワン](http://amzn.to/2n6qTlF)
   - [アテンション](http://amzn.to/2lTz58G)
   - [限界費用ゼロ社会](http://amzn.to/2meliwm)
-  - []()
   
-
 ##### サイト
 
 - [Inc.](http://www.inc.com)
