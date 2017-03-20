@@ -102,7 +102,6 @@
   - [限界費用ゼロ社会](http://amzn.to/2meliwm)
   - [科学検定公式問題集 3・4級](http://amzn.to/2mWxMKb)
   - [科学検定公式問題集 5・6級](http://amzn.to/2mf6lGV)
-  - []()
 
 ##### サイト
 
